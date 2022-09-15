@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.intro-bg {
+    background-image: url("https://i.postimg.cc/GmMgtT6x/pexels-artem-podrez-7233131.jpg");
+    color: white;
+    background-size: cover;
+    font-family: "Roboto";
+    height: 80vh;
+
+}
+
+.about-section-bg {
+    background-color: #f2f5f7;
+    padding: 25px;
+    font-family: "Bree Serif";
+}
+
+.intro-h1 {
+    font-size: 80px;
+
+    font-family: "Bree Serif";
+
+}
+
+.intro-h2 {
+    font-size: 45px;
+    color: #ffffff;
+    font-family: "Bree Serif";
+}
+
+.intro-para {
+    font-size: 25px;
+    font-family: "Bree Serif";
+}
+
+.intro-button {
+    background-image: linear-gradient(to right, #65e678, #81e6db, #3498cf);
+    font-size: 600;
+}
+
+.service-section-bg {
+    background-image: linear-gradient(to right, #de5288, #e65757);
+    font-family: "Bree Serif";
+}
+
+.step-card-bg {
+    background-color: #f2eeed;
+}
+
+.step-card-h1 {
+
+    font-family: "Roboto";
+
+}
+
+.step-card-h2 {
+    font-size: 40px;
+}
+
+.step-card-img {
+    font-size: 50px;
+}
+
+.step-card-para {}
+
+
+
+
+
+
+.stat-bg {
+    font-family: "Bree Serif";
+    background-image: url("https://i.postimg.cc/QVGq9xjM/pexels-gradienta-7130535.jpg");
+    background-size: cover;
+    padding: 40px;
+}
+
+.stat-card-heading {
+    font-size: 20px;
+
+}
+
+.data-box {
+    background-color: #ffffff;
+    border-radius: 70px;
+    padding: 50px;
+    text-align: center;
+    background-image: linear-gradient(to right, #8fa0cf, #b53171);
+    margin: 20px;
+
+}
+
+.dp {
+    color: #ffffff;
+    font-size: 600;
+}
+
+.cursor-img {
+    height: 480px;
+    width: 10px;
+}
+
+.bg {
+    color: #5a7184;
+    background-color: #0d2436;
+}
+
+.img {
+    width: 150px;
+    height: 50px;
+}
+
+.icon1 {
+    color: #5a7184;
+    background-color: #152c3e;
+    padding: 12px;
+    border-radius: 80px;
+}
+
+.p-out {
+    color: #e9f2eb;
+    font-weight: 400;
+}
+
+.h {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.p {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.l1 {
+    border-color: #5a7184;
+    border-width: 2px;
+
+}
